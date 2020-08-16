@@ -1,12 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 12 22:04:34 2019
+Created on Mon Aug 14 22:04:34 2020
 
 @author: sarve
 """
 ''' 
-tidyverse ==>pandas
-gmodels==> sklearn
 
 '''
 import pandas as pd
